@@ -1,4 +1,4 @@
-# Test design 🎨 Documentation 🗎
+# Test design 🎨 and Documentation 🗎
 Test Design Techniques and Test Documentation Creation
 <ul>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1xKjomLJH5kE104luvyckU-ODAhNlyuXZo1uRHoGPLhk/edit?usp=sharing">EC and BV</a> for a group of parameters and requirements for them.</li> 
