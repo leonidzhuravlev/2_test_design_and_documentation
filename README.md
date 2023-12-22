@@ -1,5 +1,4 @@
 # Test design 🎨 and Documentation 🗎
-Test Design Techniques and Test Documentation Creation
 <ul>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1xKjomLJH5kE104luvyckU-ODAhNlyuXZo1uRHoGPLhk/edit?usp=sharing">EC and BV</a> for a group of parameters and requirements for them.</li> 
 <li>  <a href="https://docs.google.com/spreadsheets/d/1MXiXgX3sCpaXinhxFKOFpZkGB1DcMyVy_zKkiSf4hnU/edit?usp=sharing">Pairwise technique.</a> Determine all possible test cases for checking products in an online store.</li> 
